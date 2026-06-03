@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- ADD YOUR NAME HERE! -->
+    <title>BSoA Digital Design : Aaron Pollock</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="2022 graduate website for the Ulster University's Belfast School of Art Interaction Design course." />
+    <meta name="keywords" content="interaction design, user experience design, user interface design, service design, interaction design graduates, " />
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/burger.css">
+    <link rel="stylesheet" href="https://use.typekit.net/anj2ihm.css">
+
+<!-- PLEASE ADD SPECIFIC COLOURS FOR BACKGROUNDS AND HEADINGS â€“ DO NOT CHANGE THE CLASS NAMES-->
+    <style>
+      .bio { background: #; color: #;}
+      .gi h2, h3 { color: #;}
+    </style>
+
+    <!-- IGNORE Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-168571432-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-168571432-1');
+</script>
+
+</head>
+  <body>
+      <nav class="flex-nav"><?php include('inc/nav.inc.php'); ?></nav>
+<div class="side"><img src="img/26/cd-head.jpg" alt="Profile image of ####"/></div>
+
+<!-- ADD A FEW LINES FOR YOUR BIO HERE SEE CONTENT ON PREVIOUS GRAD ENTRIES FOR HELP IF NEEDED -->
+      <div class="bio">  
+          <section class="biocontent darklink">
+              <h1>Aaron Pollock</h1>
+              <p>I'm Aaron, I am finishing my final year studying Digital Design at Ulster University. My passion for design is rooted in a love of problem solving, I enjoy creating thoughtful solutions to user challenges and approaching complex briefs with innovation and creativity, always aiming to push the boundaries of what’s been done before.</p>
+              
+
+<!-- ADD LINKS TO SOCIAL MEDIA ACCOUNTS, EMAIL AND PORTFOLIO SITES. REMOVE THOSE YOU DON'T INTENT TO USE -->
+<!------------------- EXTERNAL CONNECTIONS ---------------------->
+<ul class="connections">
+<li><a href="mailto:#" title="send me an email">
+                    <svg width="36" height="36" viewBox="0 0 36 36">
+                <g></g>
+                      <path  d="M17.902 1.699c-8.949 0-16.203 7.254-16.203 16.203s7.254 16.203 16.203 16.203c8.949 0 16.203-7.254 16.203-16.203 0-8.949-7.254-16.203-16.203-16.203zM9.168 11.487h17.371c0.99 0 1.794 0.699 1.878 1.588l-10.599 4.53-10.532-4.501c0.069-0.903 0.88-1.618 1.881-1.618zM28.434 23.494c0 0.961-0.848 1.739-1.895 1.739h-17.371c-1.047 0-1.895-0.778-1.895-1.739v-9.566l10.558 4.511 0.008-0.013 10.595-4.529v9.597z" fill="#fff"/>
+                  </svg>
+                  </a>
+                  </li>
+<!----------------------------- LINK ---------------------------->
+<!----------------------------- LINKEDIN ---------------------------->
+<li><a href="#" title="Connect with me on Linkedin">
+  <svg width="36" height="36" viewBox="0 0 36 36">
+  <g></g>
+  <path  d="M17.9,1.8c9,0,16.3,7.3,16.3,16.3s-7.3,16.3-16.3,16.3S1.7,27,1.7,18.1S9,1.8,17.9,1.8z M12.9,27.2V14.5H8.6
+  v12.7H12.9z M28.1,27.2v-7.3c0-3.9-2.1-5.7-4.9-5.7c-2.2,0-3.2,1.2-3.8,2.1v-1.8h-4.2c0.1,1.2,0,12.7,0,12.7h4.2v-7.1
+  c0-0.4,0-0.8,0.1-1c0.3-0.8,1-1.5,2.2-1.5c1.5,0,2.1,1.2,2.1,2.9v6.8L28.1,27.2L28.1,27.2z M10.8,8.4c-1.4,0-2.4,0.9-2.4,2.2
+  c0,1.2,0.9,2.2,2.3,2.2h0c1.5,0,2.4-1,2.4-2.2C13.1,9.3,12.2,8.4,10.8,8.4L10.8,8.4z" fill="#fff"/>
+</svg>
+</a>
+</li>
+<!----------------------------- PORTFOLIO/LINKTREE ---------------------------->
+<li><a href="#" title="Let's Connect!">
+  <svg width="36" height="36" viewBox="0 0 36 36">
+  <g></g>
+     <path  d="M17.9,1.86A16.21,16.21,0,1,0,34.1,18.07,16.2,16.2,0,0,0,17.9,1.86Zm1.39,18.66-3.24,3.23a3.25,3.25,0,0,1-4.6-4.6l2.67-2.67h0l0-.06a.54.54,0,0,1,.76,0,.55.55,0,0,1,.06.69v0l-2.55,2.54a2.17,2.17,0,1,0,3.07,3.07L18.27,20a2.41,2.41,0,0,0,.19-2.77h0a.73.73,0,0,1,0-1,.74.74,0,0,1,1.05,0,.47.47,0,0,1,.06.09h0A3.26,3.26,0,0,1,19.29,20.52ZM24.36,17l-3,3h0a.54.54,0,0,1-.76,0,.53.53,0,0,1,0-.77l2.72-2.73a2.17,2.17,0,1,0-3.07-3.07l-2.72,2.73A2.16,2.16,0,0,0,17.41,19h0a.72.72,0,0,1-1.06,1h0a.47.47,0,0,1-.06-.09,3.26,3.26,0,0,1,.24-4.31l3.24-3.24A3.26,3.26,0,1,1,24.35,17Z" transform="translate(-1.7 -1.86)" fill="#fff"/>
+   </svg>
+   </a>
+</li>
+<!----------------------------- INSTAGRAM ---------------------------->
+                   <li><a href="#" title="Visit my Instagram account" target="_blank" >
+                    <svg width="36" height="36" viewBox="0 0 36 36">
+                    <g></g>
+                       <path d="M17.903 1.699c-8.949 0-16.204 7.254-16.204 16.203s7.254 16.203 16.204 16.203c8.948 0 16.203-7.254 16.203-16.203 0-8.949-7.254-16.203-16.203-16.203zM24.957 22.747c0 1.218-0.992 2.206-2.207 2.206h-9.694c-1.221 0-2.207-0.989-2.207-2.206v-5.667h2.87c-0.059 0.267-0.081 0.535-0.081 0.819 0 2.357 1.901 4.26 4.264 4.26 2.352 0 4.263-1.903 4.263-4.26 0-0.284-0.027-0.553-0.080-0.819h2.872v5.667zM15.277 17.899c0-1.451 1.177-2.629 2.624-2.629 1.451 0 2.621 1.177 2.621 2.629 0 1.458-1.17 2.625-2.621 2.625-1.446 0-2.624-1.168-2.624-2.625zM24.957 15.437h-3.572c-0.769-1.089-2.049-1.803-3.484-1.803-1.438 0-2.707 0.713-3.487 1.803h-3.566v-2.385c0-1.22 0.986-2.2 2.207-2.2h9.693c1.216 0 2.207 0.981 2.207 2.2v2.385z" fill="#fff" />
+                       <path d="M23.438 11.995h-1.185c-0.215 0-0.399 0.174-0.399 0.39v1.182c0 0.224 0.183 0.399 0.399 0.399h1.185c0.21 0 0.393-0.176 0.393-0.399v-1.182c0-0.216-0.181-0.39-0.393-0.39z" fill="#fff" />
+                     </svg>
+                     </a>
+                       </li>
+       </ul>
+      </section>
+      </div>
+</div>
+
+<!--------------- THIS SECTION FOCUSSES ON YOUR MAJOR PROJECT CONTENT ------------------->
+      
+<div class="lg work">
+    <!-- THIS SECTIONS KICKS OF WITH A LARGE IMAGE 200PX WIDE BY 1000PX HIGH -->
+      <img src="img/26/cd-large-1.jpg" alt="portfolio image"/>
+
+      <section>
+        <h3>Medley</h3>
+        <p>Medley is an educational platform designed to enrich secondary school students’ cultural awareness through the subject of music. Students are provided with the opportunity to play music live with other classes and teachers from around the world, both expanding their music and teamwork skills and developing empathy for the traditions and people of the world. </p>
+      </section>
+
+<!-- THIS SECTIONS PRESENTS A SERIES OF DEVELOPMENT IMAGES FOR YOUR PROJECT IDEALLY PRESENT AS A SET OF TWO OR FOUR 400PX WIDE BY 300PX HIGH -->
+
+      <section class="examples">
+        <img src="img/26/cd-small-1.jpg" alt="portfolio image"/>
+        <img src="img/26/cd-small-2.jpg" alt="portfolio image"/>
+      </section>
+
+      <section>
+        <p>The product aims to combat a trend of misinformation surrounding world cultures and people groups, uplifting traditions around the world and bringing people together to appreciate and enjoy, rather than fear, their differences starting from school age.</p>
+      </section>
+
+<!-- HERE WE HAVE ANOTHER LARGE IMAGE 200PX WIDE BY 1000PX HIGH TO SEPARATE THE INTRO FROM THE PROCESS BELOW-->
+
+        <img src="img/26/cd-large-2.jpg" alt="portfolio image"/>
+
+<!-- THIS SECTION FOCUSSES ON YOUR PROCESS WITH SUPPORTING IMAGES-->
+
+      <section>
+        <h3>The Process</h3>
+          <p>The initial problem was identified through research of world affairs, blogs and message boards. My research then gleaned that children who grow up with exposure to other cultures grow up to have a more positive idea of ethnicities outside of their own. As a member of the music teaching sector, I found that the sector has a natural connection to the problem, as music is a valuable part of all cultures that can be enjoyed by anyone, regardless of age or origin.  </p>
+      </section>
+
+ <!-- SMALL IMAGES 400PX X 300PX -->
+      <section class="examples">
+          <img src="img/26/cd-small-3.jpg" alt="portfolio image"/>
+          <img src="img/26/cd-small-4.jpg" alt="portfolio image"/>
+      </section>
+
+      <section>
+          <p>Following interviews with teachers and students, I devised sketches, to low/mid-fi prototypes, ending with the final high-fi prototype, with user testing perforned throughout the process.</p>
+      </section>
+
+      <!-- HERE WE HAVE ANOTHER LARGE IMAGE (OPTIONAL) 2000PX WIDE BY 1000PX HIGH TO SEPARATE THE PROCESS FROM THE OUTCOME BELOW-->
+      <img src="img/26/cd-large-1.jpg" alt="portfolio image"/>
+
+      <!-- THIS SECTION FOCUSSES ON THE FINAL RESULT. BESURE TO INCLUDE RELEVANT LINKS TO SUPPORTING WEBSITES, PROTOTYPES AND SUPPORTING CONTENT-->
+      <section>
+        <h3>The Outcome</h3>
+          <p>From this process, I devised the solution, Medley, a digital product for schools that pairs classes with others around the globe to play and learn music together with the aim of cultural enrichment and world collaboration. </p>
+      </section>
+
+  
+      <!-- YOU CAN FINISH THINGS OFF WITH A SINGLE LARGE IMAGE, A SINGLE ONE AT 800PX X 300 PX OR A COUPLE OF IMAGES AT 400PX X 300PX -->
+
+</div>
+
+<!----------------- FOOTER ------------------>
+<footer id="contact"><?php include('inc/footer.inc.php'); ?></footer>
+          </body>
+        </html>
