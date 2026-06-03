@@ -17,7 +17,7 @@
 <!-- PLEASE ADD SPECIFIC COLOURS FOR BACKGROUNDS AND HEADINGS â€“ DO NOT CHANGE THE CLASS NAMES-->
     <style>
       .bio { background: 000606; color: 40575B;}
-      .gi h2, h3 { color: #;}
+      .gi h2, h3 { color: A3DAE3;}
     </style>
 
     <!-- IGNORE Global site tag (gtag.js) - Google Analytics -->
