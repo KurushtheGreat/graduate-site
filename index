@@ -16,7 +16,7 @@
 
 <!-- PLEASE ADD SPECIFIC COLOURS FOR BACKGROUNDS AND HEADINGS â€“ DO NOT CHANGE THE CLASS NAMES-->
     <style>
-      .bio { background: #; color: #;}
+      .bio { background: 000606; color: #;}
       .gi h2, h3 { color: #;}
     </style>
 
